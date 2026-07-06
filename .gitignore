@@ -1,0 +1,27 @@
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# Blueprints and execution binaries
+/target/
+/build/
+.gradle/
+/bin/
+out/
+
+# IDE specific files (IntelliJ, Eclipse, VS Code)
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# System configuration overloads
+.DS_Store
+Thumbs.db
+
+# Crash dumps
+*.pstat
